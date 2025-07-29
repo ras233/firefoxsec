@@ -1,13 +1,6 @@
 # How to disable Firefox Telemetry and Data Collection
 Setup Firefox security
 
-<p align="center"><img src="https://github.com/K3V1991/Disable-Firefox-Telemetry-and-Data-Collection/blob/main/Data-Collection.png" width="200"></a>
-<br />
-
-</p>
-<hr />
-<br />
-
 ## NFO:
 Mozilla has provided few Settings on Options Page to select what kind of Data do you want to share with Mozilla and want to send to Mozilla Servers. <br />
 You can turn on/off Options such as ```Allow Firefox to send technical and interaction data to Mozilla```, ```Allow Firefox to install and run studies``` and ```Allow Firefox to send Crash Reports to Mozilla``` Servers. <br />
