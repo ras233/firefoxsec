@@ -1,0 +1,2 @@
+# firefoxsec
+Setup Firefox security
